@@ -1,0 +1,6 @@
+[tool.vulture]
+ignore_names = ["cls", "elastic_returns_transport_error"]
+min_confidence = 80
+paths = ["tests", "recommender_engine"]
+sort_by_size = true
+verbose = true

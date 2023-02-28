@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: recommender-engine
+Version: 0.1
+Summary: wawas official recommender engine
+Home-page: https://github.com/wawafertility/wawa-recommender-engine
+Author: Regitze Sdun
+Requires-Python: >=3.8.0
+Provides-Extra: server
+Provides-Extra: tests
+Provides-Extra: all

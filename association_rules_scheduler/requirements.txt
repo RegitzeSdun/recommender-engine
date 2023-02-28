@@ -1,0 +1,10 @@
+# Function dependencies, for example:
+# package>=version
+
+google-cloud==0.34.0
+google-cloud-bigquery==3.4.0
+google-cloud-bigquery-storage==2.16.2
+pandas==1.5.2
+mlxtend==0.21.0
+SQLAlchemy==1.4.46
+pybigquery==0.10.2

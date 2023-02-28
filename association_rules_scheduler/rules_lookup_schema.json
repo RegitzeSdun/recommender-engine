@@ -1,0 +1,12 @@
+[
+  {
+    "mode": "NULLABLE",
+    "name": "antecedents",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "consequents",
+    "type": "STRING"
+  }
+]

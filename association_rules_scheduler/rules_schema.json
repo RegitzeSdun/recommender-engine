@@ -1,0 +1,47 @@
+[
+  {
+    "mode": "NULLABLE",
+    "name": "antecedents",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "consequents",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "antecedent_support",
+    "type": "FLOAT"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "consequent_support",
+    "type": "FLOAT"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "support",
+    "type": "FLOAT"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "confidence",
+    "type": "FLOAT"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "lift",
+    "type": "FLOAT"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "leverage",
+    "type": "FLOAT"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "conviction",
+    "type": "FLOAT"
+  }
+]
